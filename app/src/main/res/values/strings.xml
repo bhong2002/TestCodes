@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestCodes</string>
+    <string name="action_settings">Settings</string>
+    <string name="get_data">Get Data</string>
+</resources>
